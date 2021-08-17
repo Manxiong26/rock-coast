@@ -28,3 +28,19 @@ body {
     line-height: 25px;
     border-radius: 4px;
 }
+
+.header a:hover {
+    background-color: #ddd;
+    color: black;
+    border: 1px solid darkgrey;
+    padding-top: 5px;
+    margin: 5px;
+}
+
+.header-right{
+    float: left;
+    background-color: #ffff;
+    margin-top: 75px;
+    border-radius: 5px;
+    padding-right: 5%;
+}

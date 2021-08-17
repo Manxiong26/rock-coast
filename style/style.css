@@ -11,7 +11,7 @@ body {
 /* Styling for the header start */
 .header{
     overflow: hidden;
-    background-color: #a8bcc9;
+    background-color: #8e9da7;
 }
 
 #img {
@@ -79,12 +79,16 @@ is 750px or less */
     margin: 15px;
 }
 
+h2 {
+    color:rgba(241, 138, 12, 0.966);
+}
+
 hr.solid {
     border: 1px solid grey;
   }
 
 .box {
-    background-color: rgba(241, 138, 12, 0.966);
+    background-color: rgba(241, 123, 12, 0.966);
     padding: 15px;
     text-align: left;
     color: #ffffff;
